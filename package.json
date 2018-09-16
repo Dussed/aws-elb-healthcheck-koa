@@ -1,0 +1,19 @@
+{
+  "name": "aws-elb-healthcheck-koa",
+  "version": "1.0.0",
+  "description": "Simple solution to satisfy AWS ELB's healthcheck when using Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dussed/aws-elb-healthcheck-koa.git"
+  },
+  "author": "David 'Dussed' Marsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dussed/aws-elb-healthcheck-koa/issues"
+  },
+  "homepage": "https://github.com/Dussed/aws-elb-healthcheck-koa#readme"
+}
