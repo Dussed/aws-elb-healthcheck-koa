@@ -3,7 +3,7 @@ Simple solution to satisfy AWS ELB's healthcheck when using Koa
 
 ## NPM
 ```
-npm install %%TODO%% --save
+npm install aws-elb-healthcheck-koa --save
 ```
 
 ## Usage

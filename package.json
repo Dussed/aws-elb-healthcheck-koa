@@ -1,6 +1,6 @@
 {
   "name": "aws-elb-healthcheck-koa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple solution to satisfy AWS ELB's healthcheck when using Koa",
   "main": "index.js",
   "scripts": {
